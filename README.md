@@ -25,3 +25,5 @@ This project was built independently during my learning process to:
 - Practice modern responsive design techniques  
 - Customize design elements for personal branding  
 - Explore layout systems like Grid and Flexbox without relying on libraries
+
+> 🖼️ **Image Note**: All visual assets in this project were generated using AI tools (via GPT) to avoid copyright issues.
